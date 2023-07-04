@@ -1,0 +1,166 @@
+[
+    {
+        "Nome": "bulbasaur",
+        "Tipo": [
+            "grass",
+            "poison"
+        ],
+        "Satus": 45,
+        "NumeroDex": 153,
+        "Altura": 7,
+        "Peso": 69,
+        "moves": [
+            "razor-wind",
+            "swords-dance",
+            "cut",
+            "bind"
+        ]
+    },
+    {
+        "Nome": "ivysaur",
+        "Tipo": [
+            "grass",
+            "poison"
+        ],
+        "Satus": 60,
+        "NumeroDex": 9,
+        "Altura": 10,
+        "Peso": 130,
+        "moves": [
+            "swords-dance",
+            "cut",
+            "bind",
+            "vine-whip"
+        ]
+    },
+    {
+        "Nome": "venusaur",
+        "Tipo": [
+            "grass",
+            "poison"
+        ],
+        "Satus": 80,
+        "NumeroDex": 154,
+        "Altura": 20,
+        "Peso": 1000,
+        "moves": [
+            "swords-dance",
+            "cut",
+            "bind",
+            "vine-whip"
+        ]
+    },
+    {
+        "Nome": "charmander",
+        "Tipo": [
+            "fire"
+        ],
+        "Satus": 39,
+        "NumeroDex": 176,
+        "Altura": 6,
+        "Peso": 85,
+        "moves": [
+            "mega-punch",
+            "fire-punch",
+            "thunder-punch",
+            "scratch"
+        ]
+    },
+    {
+        "Nome": "charmeleon",
+        "Tipo": [
+            "fire"
+        ],
+        "Satus": 58,
+        "NumeroDex": 178,
+        "Altura": 11,
+        "Peso": 190,
+        "moves": [
+            "mega-punch",
+            "fire-punch",
+            "thunder-punch",
+            "scratch"
+        ]
+    },
+    {
+        "Nome": "charizard",
+        "Tipo": [
+            "fire",
+            "flying"
+        ],
+        "Satus": 78,
+        "NumeroDex": 180,
+        "Altura": 17,
+        "Peso": 905,
+        "moves": [
+            "mega-punch",
+            "fire-punch",
+            "thunder-punch",
+            "scratch"
+        ]
+    },
+    {
+        "Nome": "squirtle",
+        "Tipo": [
+            "water"
+        ],
+        "Satus": 44,
+        "NumeroDex": 177,
+        "Altura": 5,
+        "Peso": 90,
+        "moves": [
+            "mega-punch",
+            "ice-punch",
+            "mega-kick",
+            "headbutt"
+        ]
+    },
+    {
+        "Nome": "wartortle",
+        "Tipo": [
+            "water"
+        ],
+        "Satus": 59,
+        "NumeroDex": 179,
+        "Altura": 10,
+        "Peso": 225,
+        "moves": [
+            "mega-punch",
+            "ice-punch",
+            "mega-kick",
+            "headbutt"
+        ]
+    },
+    {
+        "Nome": "blastoise",
+        "Tipo": [
+            "water"
+        ],
+        "Satus": 79,
+        "NumeroDex": 28,
+        "Altura": 16,
+        "Peso": 855,
+        "moves": [
+            "mega-punch",
+            "ice-punch",
+            "mega-kick",
+            "headbutt"
+        ]
+    },
+    {
+        "Nome": "caterpie",
+        "Tipo": [
+            "bug"
+        ],
+        "Satus": 45,
+        "NumeroDex": 123,
+        "Altura": 3,
+        "Peso": 29,
+        "moves": [
+            "tackle",
+            "string-shot",
+            "snore",
+            "bug-bite"
+        ]
+    }
+]
